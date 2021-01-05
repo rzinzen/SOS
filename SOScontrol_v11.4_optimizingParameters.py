@@ -1,13 +1,13 @@
-#!/usr/bin/env python3
+#written and tested for python3
 
 #####################################################################################################
-# Filename      :   SOS_v11.0.py
+# Filename      :   SOScontrol_v11.4_optimizingParameters.py
 # Description   :   Automating the SOS
 # Author        :   Zinzen
-# modification  :   2021/01/02
+# modification  :   2021/01/03
 #####################################################################################################
 
-#NOTE: this Python Code is thouroughly commented to make it as understandable as possible 
+#NOTE: this Python Code is thouroughly commented to make it as understandable as possible.
 
 #####################################################################################################
 #####################################################################################################
